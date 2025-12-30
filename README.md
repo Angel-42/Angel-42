@@ -9,26 +9,25 @@ Focusing on **System Architecture** and **Performance**. I enjoy digging into ho
 
 | Proficiency | Languages & Tools |
 | :--- | :--- |
-| **Advanced** | C, C++, TypeScript, Flutter, Linux, Git |
-| **Intermediate** | Assembly (x86_64), PostgreSQL, Docker, Python, Node.js |
-| **Currently Learning** | C#, React |
+| **Advanced** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| **Intermediate** | ![Assembly](https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=assembly&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
+| **Currently Learning** | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
 
 ---
 
 ### 🏆 Key Projects
 
-* **[R-Type](https://github.com/EpiType/Air-Trap)** (In Development) - Multi-threaded game engine & custom UDP network protocol in C++.
-* **[AREA](https://github.com/Angel-42/AREA)** - Automation platform (SaaS-like) connecting various APIs.
-* **[Zappy](https://github.com/Angel-42/Zappy)** - Distributed system project involving a custom TCP server and AI clients.
-* **[AsmMinilibc](https://github.com/Angel-42/AsmMinilibc)** - Deep dive into x86_64 Assembly to recode standard C functions.
+* 🛸 **[R-Type](https://github.com/EpiType/Air-Trap)** (In Development) - Multi-threaded game engine & custom UDP network protocol in C++.
+* ⚙️ **[AREA](https://github.com/Angel-42/AREA)** - Automation platform (SaaS-like) connecting various APIs using Node.js & Flutter.
+* ⚡ **[Zappy](https://github.com/Angel-42/Zappy)** - Distributed system project involving a custom TCP server and AI clients.
+* 📦 **[AsmMinilibc](https://github.com/Angel-42/AsmMinilibc)** - Deep dive into x86_64 Assembly to recode standard C functions.
 
 ---
 
 ### 📫 Let's Connect!
-* [My Portfolio](https://angel-42.github.io/my-portfolio-v1/)
-* [LinkedIn](https://www.linkedin.com/in/angel-severan/)
-* [Mail](mailto:severan.angel.pro@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://angel-42.github.io/my-portfolio-v1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-severan/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:severan.angel.pro@gmail.com)
 
-Feel free to reach out for collaborations or just to say hi! 😊
 ---
 *Last updated: December 2025*
