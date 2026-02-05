@@ -18,7 +18,7 @@ Focusing on **System Architecture** and **Performance**. I enjoy digging into ho
 ### 🏆 Key Projects
 
 * 🛸 **[R-Type](https://github.com/EpiType/Air-Trap)** (In Development) - Multi-threaded game engine & custom UDP network protocol in C++.
-* ⚙️ **[AREA](https://github.com/Angel-42/AREA)** - Automation platform (SaaS-like) connecting various APIs using Node.js & Flutter.
+* ⚙️ **[AREA](https://github.com/Angel-42/AreaTek3)** - Automation platform (SaaS-like) connecting various APIs using Node.js & Flutter.
 * ⚡ **[Zappy](https://github.com/Angel-42/Zappy)** - Distributed system project involving a custom TCP server and AI clients.
 * 📦 **[AsmMinilibc](https://github.com/Angel-42/AsmMinilibc)** - Deep dive into x86_64 Assembly to recode standard C functions.
 
